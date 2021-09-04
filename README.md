@@ -1,0 +1,2 @@
+# Breast-Cancer-Binary-Classification
+In this project I attempted to predict wither a number of factors such as concentration of proteins, tumor stage  or surgery type could predict if a person survived. After training several models on the data set most were able to accurately distinguish if a patient would live but not if they would die. I believe that the lack of data size and or the lack of distinct features leading to death caused the data to overfit.
